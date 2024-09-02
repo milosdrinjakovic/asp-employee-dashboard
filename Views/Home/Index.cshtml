@@ -1,0 +1,47 @@
+﻿@model employee_dashboard.Models.DashboardViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        .low-hours {
+            background-color: lightcoral;
+        }
+    </style>
+</head>
+<body>
+    <h2>Employee Time Worked</h2>
+    
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Total Hours</th>
+        </tr>
+        @foreach (var item in Model.Employees)
+        {
+            var rowClass = item.TotalHours < 100 ? "low-hours" : "";
+            <tr class="@rowClass">
+                <td>@item.EmployeeName</td>
+                <td>@item.TotalHours.ToString("F2")</td>
+            </tr>
+        }
+    </table>
+
+    <h2>Time Worked Pie Chart</h2>
+    
+    <img src="@Model.PieChartPath" alt="Pie Chart" />
+</body>
+</html>

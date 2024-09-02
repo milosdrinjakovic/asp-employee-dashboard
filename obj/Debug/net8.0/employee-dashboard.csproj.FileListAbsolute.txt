@@ -1,0 +1,96 @@
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\appsettings.json
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\employee-dashboard.staticwebassets.runtime.json
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\employee-dashboard.exe
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\employee-dashboard.deps.json
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\employee-dashboard.runtimeconfig.json
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\employee-dashboard.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\employee-dashboard.pdb
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.csproj.AssemblyReference.cache
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.AssemblyInfoInputs.cache
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.AssemblyInfo.cs
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.csproj.CoreCompileInputs.cache
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.RazorAssemblyInfo.cache
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.RazorAssemblyInfo.cs
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.employee-dashboard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.build.employee-dashboard.props
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.employee-dashboard.props
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.employee-dashboard.props
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\scopedcss\bundle\employee-dashboard.styles.css
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\scopedcss\projectbundle\employee-dashboard.bundle.scp.css
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee.E54949F6.Up2Date
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.dll
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\refint\employee-dashboard.dll
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.pdb
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\employee-dashboard.genruntimeconfig.cache
+D:\ASP projekat za firmu\employee-dashboard\obj\Debug\net8.0\ref\employee-dashboard.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\OxyPlot.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\OxyPlot.SkiaSharp.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\SkiaSharp.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-armel\native\libHarfBuzzSharp.so
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-x86\native\libHarfBuzzSharp.so
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-armel\native\libSkiaSharp.so
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-x86\native\libSkiaSharp.so
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\ASP projekat za firmu\employee-dashboard\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\appsettings.json
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\employee-dashboard.staticwebassets.runtime.json
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\employee-dashboard.exe
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\employee-dashboard.deps.json
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\employee-dashboard.runtimeconfig.json
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\employee-dashboard.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\employee-dashboard.pdb
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\OxyPlot.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\OxyPlot.SkiaSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\SkiaSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-armel\native\libHarfBuzzSharp.so
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-x86\native\libHarfBuzzSharp.so
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-armel\native\libSkiaSharp.so
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\tizen-x86\native\libSkiaSharp.so
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\ASP novi projekat\employee-dashboard\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.csproj.AssemblyReference.cache
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.AssemblyInfoInputs.cache
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.AssemblyInfo.cs
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.csproj.CoreCompileInputs.cache
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.RazorAssemblyInfo.cache
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.RazorAssemblyInfo.cs
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.employee-dashboard.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.build.employee-dashboard.props
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.employee-dashboard.props
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.employee-dashboard.props
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\scopedcss\bundle\employee-dashboard.styles.css
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\scopedcss\projectbundle\employee-dashboard.bundle.scp.css
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee.E54949F6.Up2Date
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.dll
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\refint\employee-dashboard.dll
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.pdb
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\employee-dashboard.genruntimeconfig.cache
+D:\ASP novi projekat\employee-dashboard\obj\Debug\net8.0\ref\employee-dashboard.dll

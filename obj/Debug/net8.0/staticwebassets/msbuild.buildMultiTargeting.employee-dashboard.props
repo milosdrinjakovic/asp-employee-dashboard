@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\employee-dashboard.props" />
+</Project>
